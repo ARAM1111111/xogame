@@ -1,0 +1,19 @@
+#table{
+			width: 183px;
+
+			display:none;			 
+		}
+		
+ td{
+	text-align: center;
+ 	padding: 2px;
+	width: 60px;
+	height: 60px;
+	font-size: 30px;
+	color: silver;
+ }
+
+ button{
+			width: 60px;
+			height: 60px;
+		}
